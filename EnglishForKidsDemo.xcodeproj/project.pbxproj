@@ -62,6 +62,19 @@
 		43A724701D98C107004A2AA1 /* watermelon.png in Resources */ = {isa = PBXBuildFile; fileRef = 43A724401D98C107004A2AA1 /* watermelon.png */; };
 		43A724711D98C107004A2AA1 /* fruits.png in Resources */ = {isa = PBXBuildFile; fileRef = 43A724411D98C107004A2AA1 /* fruits.png */; };
 		43A724731D98C3F1004A2AA1 /* MasterTableVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = 43A724721D98C3F1004A2AA1 /* MasterTableVC.swift */; };
+		43A724821D98D272004A2AA1 /* Accordion.png in Resources */ = {isa = PBXBuildFile; fileRef = 43A724751D98D272004A2AA1 /* Accordion.png */; };
+		43A724831D98D272004A2AA1 /* cello.png in Resources */ = {isa = PBXBuildFile; fileRef = 43A724761D98D272004A2AA1 /* cello.png */; };
+		43A724841D98D272004A2AA1 /* Celtic_Harp.png in Resources */ = {isa = PBXBuildFile; fileRef = 43A724771D98D272004A2AA1 /* Celtic_Harp.png */; };
+		43A724851D98D272004A2AA1 /* drum.png in Resources */ = {isa = PBXBuildFile; fileRef = 43A724781D98D272004A2AA1 /* drum.png */; };
+		43A724861D98D272004A2AA1 /* Guitar.png in Resources */ = {isa = PBXBuildFile; fileRef = 43A724791D98D272004A2AA1 /* Guitar.png */; };
+		43A724871D98D272004A2AA1 /* Oboe.png in Resources */ = {isa = PBXBuildFile; fileRef = 43A7247A1D98D272004A2AA1 /* Oboe.png */; };
+		43A724881D98D272004A2AA1 /* Piano.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 43A7247B1D98D272004A2AA1 /* Piano.jpg */; };
+		43A724891D98D272004A2AA1 /* saxophone.png in Resources */ = {isa = PBXBuildFile; fileRef = 43A7247C1D98D272004A2AA1 /* saxophone.png */; };
+		43A7248A1D98D272004A2AA1 /* tambourine.png in Resources */ = {isa = PBXBuildFile; fileRef = 43A7247D1D98D272004A2AA1 /* tambourine.png */; };
+		43A7248B1D98D272004A2AA1 /* Trompete.png in Resources */ = {isa = PBXBuildFile; fileRef = 43A7247E1D98D272004A2AA1 /* Trompete.png */; };
+		43A7248C1D98D272004A2AA1 /* v guitar.png in Resources */ = {isa = PBXBuildFile; fileRef = 43A7247F1D98D272004A2AA1 /* v guitar.png */; };
+		43A7248D1D98D272004A2AA1 /* violin.png in Resources */ = {isa = PBXBuildFile; fileRef = 43A724801D98D272004A2AA1 /* violin.png */; };
+		43A7248E1D98D272004A2AA1 /* Musical_instrument.png in Resources */ = {isa = PBXBuildFile; fileRef = 43A724811D98D272004A2AA1 /* Musical_instrument.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -143,6 +156,19 @@
 		43A724401D98C107004A2AA1 /* watermelon.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = watermelon.png; sourceTree = "<group>"; };
 		43A724411D98C107004A2AA1 /* fruits.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = fruits.png; sourceTree = "<group>"; };
 		43A724721D98C3F1004A2AA1 /* MasterTableVC.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = MasterTableVC.swift; sourceTree = "<group>"; };
+		43A724751D98D272004A2AA1 /* Accordion.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Accordion.png; sourceTree = "<group>"; };
+		43A724761D98D272004A2AA1 /* cello.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = cello.png; sourceTree = "<group>"; };
+		43A724771D98D272004A2AA1 /* Celtic_Harp.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Celtic_Harp.png; sourceTree = "<group>"; };
+		43A724781D98D272004A2AA1 /* drum.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = drum.png; sourceTree = "<group>"; };
+		43A724791D98D272004A2AA1 /* Guitar.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Guitar.png; sourceTree = "<group>"; };
+		43A7247A1D98D272004A2AA1 /* Oboe.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Oboe.png; sourceTree = "<group>"; };
+		43A7247B1D98D272004A2AA1 /* Piano.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = Piano.jpg; sourceTree = "<group>"; };
+		43A7247C1D98D272004A2AA1 /* saxophone.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = saxophone.png; sourceTree = "<group>"; };
+		43A7247D1D98D272004A2AA1 /* tambourine.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = tambourine.png; sourceTree = "<group>"; };
+		43A7247E1D98D272004A2AA1 /* Trompete.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Trompete.png; sourceTree = "<group>"; };
+		43A7247F1D98D272004A2AA1 /* v guitar.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "v guitar.png"; sourceTree = "<group>"; };
+		43A724801D98D272004A2AA1 /* violin.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = violin.png; sourceTree = "<group>"; };
+		43A724811D98D272004A2AA1 /* Musical_instrument.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Musical_instrument.png; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -225,6 +251,8 @@
 		43A7240F1D98C0D0004A2AA1 /* resource */ = {
 			isa = PBXGroup;
 			children = (
+				43A724741D98D272004A2AA1 /* Musical instruments */,
+				43A724811D98D272004A2AA1 /* Musical_instrument.png */,
 				43A724101D98C107004A2AA1 /* Animals */,
 				43A7242C1D98C107004A2AA1 /* animals.jpeg */,
 				43A7242D1D98C107004A2AA1 /* Fruits */,
@@ -291,6 +319,25 @@
 				43A724401D98C107004A2AA1 /* watermelon.png */,
 			);
 			path = Fruits;
+			sourceTree = "<group>";
+		};
+		43A724741D98D272004A2AA1 /* Musical instruments */ = {
+			isa = PBXGroup;
+			children = (
+				43A724751D98D272004A2AA1 /* Accordion.png */,
+				43A724761D98D272004A2AA1 /* cello.png */,
+				43A724771D98D272004A2AA1 /* Celtic_Harp.png */,
+				43A724781D98D272004A2AA1 /* drum.png */,
+				43A724791D98D272004A2AA1 /* Guitar.png */,
+				43A7247A1D98D272004A2AA1 /* Oboe.png */,
+				43A7247B1D98D272004A2AA1 /* Piano.jpg */,
+				43A7247C1D98D272004A2AA1 /* saxophone.png */,
+				43A7247D1D98D272004A2AA1 /* tambourine.png */,
+				43A7247E1D98D272004A2AA1 /* Trompete.png */,
+				43A7247F1D98D272004A2AA1 /* v guitar.png */,
+				43A724801D98D272004A2AA1 /* violin.png */,
+			);
+			path = "Musical instruments";
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -400,16 +447,22 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				43A7248B1D98D272004A2AA1 /* Trompete.png in Resources */,
 				43A724681D98C107004A2AA1 /* mango.jpg in Resources */,
+				43A724881D98D272004A2AA1 /* Piano.jpg in Resources */,
 				43A7246A1D98C107004A2AA1 /* papaya.jpg in Resources */,
 				43A7245D1D98C107004A2AA1 /* animals.jpeg in Resources */,
 				43A7246B1D98C107004A2AA1 /* passion fruit.jpg in Resources */,
+				43A724831D98D272004A2AA1 /* cello.png in Resources */,
 				43A724541D98C107004A2AA1 /* mosquito.jpg in Resources */,
 				43A724551D98C107004A2AA1 /* mouse.png in Resources */,
+				43A724891D98D272004A2AA1 /* saxophone.png in Resources */,
 				43A724611D98C107004A2AA1 /* blackberry.png in Resources */,
 				43A724631D98C107004A2AA1 /* coconut.png in Resources */,
+				43A724861D98D272004A2AA1 /* Guitar.png in Resources */,
 				43A7244C1D98C107004A2AA1 /* dog.png in Resources */,
 				43A724531D98C107004A2AA1 /* lion.jpg in Resources */,
+				43A7248E1D98D272004A2AA1 /* Musical_instrument.png in Resources */,
 				437C373A1D9386700046AD09 /* LaunchScreen.storyboard in Resources */,
 				43A7244F1D98C107004A2AA1 /* fly.jpg in Resources */,
 				43A724491D98C107004A2AA1 /* cat.jpg in Resources */,
@@ -426,13 +479,17 @@
 				43A7244E1D98C107004A2AA1 /* fish.png in Resources */,
 				43A724641D98C107004A2AA1 /* grape.png in Resources */,
 				437C37371D9386700046AD09 /* Assets.xcassets in Resources */,
+				43A724821D98D272004A2AA1 /* Accordion.png in Resources */,
+				43A7248D1D98D272004A2AA1 /* violin.png in Resources */,
 				43A724711D98C107004A2AA1 /* fruits.png in Resources */,
 				43A724691D98C107004A2AA1 /* melon.jpg in Resources */,
+				43A724841D98D272004A2AA1 /* Celtic_Harp.png in Resources */,
 				43A724591D98C107004A2AA1 /* spider.png in Resources */,
 				43A724651D98C107004A2AA1 /* kiwi.jpg in Resources */,
 				43A724471D98C107004A2AA1 /* buffalo.jpg in Resources */,
 				43A7246D1D98C107004A2AA1 /* pineapple.jpg in Resources */,
 				437C37351D9386700046AD09 /* Main.storyboard in Resources */,
+				43A724851D98D272004A2AA1 /* drum.png in Resources */,
 				43A724461D98C107004A2AA1 /* bird.png in Resources */,
 				43A724601D98C107004A2AA1 /* banana.png in Resources */,
 				43A724661D98C107004A2AA1 /* lemon.jpg in Resources */,
@@ -440,11 +497,14 @@
 				43A724511D98C107004A2AA1 /* frog.png in Resources */,
 				43A724581D98C107004A2AA1 /* snake.png in Resources */,
 				43A7245B1D98C107004A2AA1 /* tiger.jpg in Resources */,
+				43A7248A1D98D272004A2AA1 /* tambourine.png in Resources */,
 				43A724431D98C107004A2AA1 /* bat.jpg in Resources */,
 				43A7244D1D98C107004A2AA1 /* duck.png in Resources */,
 				43A724701D98C107004A2AA1 /* watermelon.png in Resources */,
+				43A724871D98D272004A2AA1 /* Oboe.png in Resources */,
 				43A724621D98C107004A2AA1 /* cherry.png in Resources */,
 				43A7246E1D98C107004A2AA1 /* plum.png in Resources */,
+				43A7248C1D98D272004A2AA1 /* v guitar.png in Resources */,
 				43A7244B1D98C107004A2AA1 /* deer.jpg in Resources */,
 				43A724501D98C107004A2AA1 /* fox.png in Resources */,
 				43A724441D98C107004A2AA1 /* bear.png in Resources */,
@@ -632,7 +692,7 @@
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = c.ttb10912.EnglishForKidsDemo;
 				PRODUCT_NAME = "$(TARGET_NAME)";
-				SWIFT_VERSION = 3.0;
+				SWIFT_VERSION = 2.3;
 			};
 			name = Debug;
 		};
@@ -644,7 +704,7 @@
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = c.ttb10912.EnglishForKidsDemo;
 				PRODUCT_NAME = "$(TARGET_NAME)";
-				SWIFT_VERSION = 3.0;
+				SWIFT_VERSION = 2.3;
 			};
 			name = Release;
 		};
